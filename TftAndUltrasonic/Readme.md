@@ -10,3 +10,5 @@ Test project for displaying data from Ultrasonic range sensor on a TFT display
 
 ## Picture
 ![](https://raw.github.com/nikolay-pshenichny/Arduino-Playground/master/TftAndUltrasonic/sample.jpg)
+
+
